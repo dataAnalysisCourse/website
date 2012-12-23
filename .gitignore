@@ -1,9 +1,5 @@
-_site/*
-_theme_packages/*
-
 Thumbs.db
 .DS_Store
-
 !.gitkeep
 
 .rbenv-version
@@ -11,4 +7,5 @@ Thumbs.db
 
 deploy
 .autohyderef
+.hyde_deps
 
